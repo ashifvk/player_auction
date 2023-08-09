@@ -1,0 +1,25 @@
+
+.bg{background-color: navy;}
+h2{background-color: navy;}
+
+
+/* footer section */
+footer{background-color:#323946;}
+.img{width: 100%;
+padding: 10px ;}
+.icons{display: flex;
+justify-content: center;}
+.icons a{
+padding: 8px;
+background: transparent;
+border: .2rem solid rgb(233, 233, 233);
+border-radius: 50%;
+margin: 10px;
+border-radius: 50%;
+transition: .5 ease;
+}
+
+.icons a:hover{background: rgb(118, 208, 216);}
+.footbottom{color: white;
+text-align: center;
+padding: 10px;}
